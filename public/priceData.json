@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 1000,
+    "duration": "month",
+    "description": "Perfect for beginners who want to start their fitness journey.",
+    "features": [
+      "Access to gym equipment",
+      "1 group class per week",
+      "Locker facility",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 2000,
+    "duration": "month",
+    "description": "Great for regular fitness enthusiasts who want more access.",
+    "features": [
+      "Access to all equipment",
+      "3 group classes per week",
+      "Personal trainer guidance (limited)",
+      "Locker & shower facility",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 3500,
+    "duration": "month",
+    "description": "Best for serious athletes who want full support and premium service.",
+    "features": [
+      "Unlimited gym access",
+      "Unlimited group classes",
+      "Dedicated personal trainer",
+      "Diet & nutrition plan",
+      "Locker, shower & spa access",
+      "Priority support"
+    ]
+  }
+]
